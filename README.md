@@ -348,8 +348,7 @@ def main():
 if __name__ == "__main__":
  main()
 ```
-## Implement Alpha-beta pruning of Minimax Search Algorithm for a
-Simple TIC-TAC-TOE game 06
+## Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game 06
 ```py
 import time
 class Game:
@@ -503,8 +502,7 @@ def main():
 if __name__ == "__main__":
  main() 
 ```
-## Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction
-Problem) using Python 07
+## Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python 07
 ```py
 from itertools import permutations
 def solve_cryptarithmetic():
@@ -529,8 +527,7 @@ if solution:
 else:
  print("No solution found.")
 ```
-## Solve Wumpus World Problem using Python demonstrating Inferences
-from Propositional Logic 08
+## Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic 08
 ```py
 wumpus=[["Save","Breeze","PIT","Breeze"],
  ["Smell","Save","Breeze","Save"],
